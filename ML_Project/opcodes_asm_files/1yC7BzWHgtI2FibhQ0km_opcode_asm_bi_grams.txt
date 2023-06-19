@@ -1,0 +1,1 @@
+push push push push push push push call push inc sub dec mov inc jz pop or push lea mov xor or jz push call or push cmp inc inc pop xor xchg pop add call mov inc pop xor shl xchg ror or pop xor sub mov push mov push rol shr inc pop push push push mov push shr pop mov add push sub pop mov add mov push pop add call mov inc jz pop or push or push cmp inc 
